@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "Gadget-shop",
-    "slug": "Gadget-shop",
+    "name": "Neo Gadgets",
+    "scheme": "Gadget-shop",
+    "slug": "gadget-shop",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
